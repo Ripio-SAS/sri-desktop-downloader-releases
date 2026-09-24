@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Ripio-SAS/sri-desktop-downloader-releases/releases/latest",
-  "notes": "Primera distribución pública del Descargador de comprobantes SRI."
+  "version": "1.1.19",
+  "url": "https://github.com/Ripio-SAS/sri-desktop-downloader-releases/releases/download/v1.1.19/SRI_Descargador_Detallado_1.1.19_Windows.zip",
+  "notes": "Los comprobantes sin datos de autorización ni XML del SRI conservan su clave de acceso y dejan vacíos los demás campos del Excel."
 }
